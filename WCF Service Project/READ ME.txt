@@ -1,0 +1,17 @@
+Bu proje, youtube kanalı kudvenkat tarafından yayımlanmış olan WCF Tutorials serisinin bir iplementasyonunu içerir.
+Türkçe açıklamaların bulunduğu dokümanları proje dosyalarının içinde göreceksiniz.
+
+Aldığım hataların hata görüntüleri ve çözümleri ile birliktedir.
+
+WCFService klasörü içinde console application içinde bir servisin host uygulaması,
+WCFFormClient klasörü içinde, servisin tcp protokolü üzerinden consume edildiği bir windows form client uygulaması,
+WCFWebClient  klasörü içinde, servisin http protokolü üzerinden consume edildiği bir web application client uygulaması bulunur.
+
+Klasörlerin içinde; hostun nasıl başlatılması gerektiğine dair bir video mevcuttur. bkz : WCFService >> WCFServiceHost-How To Compile videosu,
+		    WSDL dosyasının oluşturulmasına ilişkin bir video. bkz : WsdlOluşturma videosu bulunur.
+
+Client proje klasörlerinin içinde ise, Client Yazma TCP ve CLient Yazma HTTP dosyalarının içinde proje detayları türkçe dilinde yer alır.
+
+
+
+

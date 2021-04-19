@@ -1,0 +1,21 @@
+-403.14 Hatası
+403.14 hatası IIS ile ilgili enteresan bir hata.
+Üzerinde Çalışıyorum.
+Ancak çözemedim.
+
+Bunu bypass etmek için, web forma sağ tıklayıp browserda gör demek yeterli.
+
+-Sunucu Hatası 1
+Server Error in '/' Application.
+No connection could be made because the target machine actively refused it 127.0.0.1:44304
+
+Yukarıdaki hatayı alıyorsan >> cmd >> netstat -anp >> sorunuçözüyor. 
+kaynak : https://www.ionos.com/digitalguide/server/know-how/fix-server-error-in-application/
+
+-Sunucu Hatası 2
+Bunun bir de şu versiyonu var;
+Server Error in '/' Application. Parse Error
+Line 1:  <%@ WebService Language="C#" CodeBehind="WebServiceConsumeJson.asmx.cs" Class="ClientAPI.WebServiceComsumeJson" %>
+
+Bunun çözemedim! SORULACAK. bkz. ClientAPI.sln @repos
+-

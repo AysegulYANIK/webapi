@@ -1,0 +1,10 @@
+C:\Users\ayşegül\source\repos\WCFFormClient\WCFFormClient\bin\Debug\WCFFormClient.exe.config
+C:\Users\ayşegül\source\repos\WCFFormClient\WCFFormClient\bin\Debug\WCFFormClient.exe
+C:\Users\ayşegül\source\repos\WCFFormClient\WCFFormClient\bin\Debug\WCFFormClient.pdb
+C:\Users\ayşegül\source\repos\WCFFormClient\WCFFormClient\obj\Debug\WCFFormClient.csprojAssemblyReference.cache
+C:\Users\ayşegül\source\repos\WCFFormClient\WCFFormClient\obj\Debug\WCFFormClient.Form1.resources
+C:\Users\ayşegül\source\repos\WCFFormClient\WCFFormClient\obj\Debug\WCFFormClient.Properties.Resources.resources
+C:\Users\ayşegül\source\repos\WCFFormClient\WCFFormClient\obj\Debug\WCFFormClient.csproj.GenerateResource.cache
+C:\Users\ayşegül\source\repos\WCFFormClient\WCFFormClient\obj\Debug\WCFFormClient.csproj.CoreCompileInputs.cache
+C:\Users\ayşegül\source\repos\WCFFormClient\WCFFormClient\obj\Debug\WCFFormClient.exe
+C:\Users\ayşegül\source\repos\WCFFormClient\WCFFormClient\obj\Debug\WCFFormClient.pdb

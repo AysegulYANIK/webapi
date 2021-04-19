@@ -1,0 +1,183 @@
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\ClientAPI.dll.config
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\ClientAPI.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\ClientAPI.pdb
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\csc.exe
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\csc.exe.config
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\csc.rsp
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\csi.exe
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\csi.exe.config
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\csi.rsp
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.AppContext.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Console.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\vbc.exe
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\vbc.exe.config
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\vbc.rsp
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\Newtonsoft.Json.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\Newtonsoft.Json.xml
+C:\Users\aysegul.yanik\source\repos\ClientAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aysegul.yanik\source\repos\ClientAPI\obj\Debug\ClientAPI.csprojAssemblyReference.cache
+C:\Users\aysegul.yanik\source\repos\ClientAPI\obj\Debug\ClientAPI.csproj.CopyComplete
+C:\Users\aysegul.yanik\source\repos\ClientAPI\obj\Debug\ClientAPI.dll
+C:\Users\aysegul.yanik\source\repos\ClientAPI\obj\Debug\ClientAPI.pdb
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\ClientAPI.dll.config
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\ClientAPI.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\ClientAPI.pdb
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\csc.exe
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\csc.exe.config
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\csc.rsp
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\csi.exe
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\csi.exe.config
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\csi.rsp
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.AppContext.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Console.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\vbc.exe
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\vbc.exe.config
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\vbc.rsp
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\Newtonsoft.Json.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\Newtonsoft.Json.xml
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\obj\Debug\ClientAPI.csprojAssemblyReference.cache
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\obj\Debug\ClientAPI.csproj.CoreCompileInputs.cache
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\obj\Debug\ClientAPI.csproj.CopyComplete
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\obj\Debug\ClientAPI.dll
+C:\Users\AYSEGUL.YANIK\Desktop\Desktop\Personal Workspace\ClientAPI\obj\Debug\ClientAPI.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\ClientAPI\obj\Debug\ClientAPI.csproj.CoreCompileInputs.cache
+E:\REPO YEDEK\ClientAPI\bin\ClientAPI.dll.config
+E:\REPO YEDEK\ClientAPI\bin\ClientAPI.dll
+E:\REPO YEDEK\ClientAPI\bin\ClientAPI.pdb
+E:\REPO YEDEK\ClientAPI\bin\roslyn\csc.exe
+E:\REPO YEDEK\ClientAPI\bin\roslyn\csc.exe.config
+E:\REPO YEDEK\ClientAPI\bin\roslyn\csc.rsp
+E:\REPO YEDEK\ClientAPI\bin\roslyn\csi.exe
+E:\REPO YEDEK\ClientAPI\bin\roslyn\csi.exe.config
+E:\REPO YEDEK\ClientAPI\bin\roslyn\csi.rsp
+E:\REPO YEDEK\ClientAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\REPO YEDEK\ClientAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\REPO YEDEK\ClientAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\REPO YEDEK\ClientAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.AppContext.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Console.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Globalization.Calendars.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.IO.Compression.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Net.Http.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Net.Sockets.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.ValueTuple.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Xml.XPath.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\REPO YEDEK\ClientAPI\bin\roslyn\vbc.exe
+E:\REPO YEDEK\ClientAPI\bin\roslyn\vbc.exe.config
+E:\REPO YEDEK\ClientAPI\bin\roslyn\vbc.rsp
+E:\REPO YEDEK\ClientAPI\bin\roslyn\VBCSCompiler.exe
+E:\REPO YEDEK\ClientAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\REPO YEDEK\ClientAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\REPO YEDEK\ClientAPI\bin\Newtonsoft.Json.dll
+E:\REPO YEDEK\ClientAPI\bin\Newtonsoft.Json.xml
+E:\REPO YEDEK\ClientAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\REPO YEDEK\ClientAPI\obj\Debug\ClientAPI.csprojAssemblyReference.cache
+E:\REPO YEDEK\ClientAPI\obj\Debug\ClientAPI.csproj.CoreCompileInputs.cache
+E:\REPO YEDEK\ClientAPI\obj\Debug\ClientAPI.csproj.CopyComplete
+E:\REPO YEDEK\ClientAPI\obj\Debug\ClientAPI.dll
+E:\REPO YEDEK\ClientAPI\obj\Debug\ClientAPI.pdb

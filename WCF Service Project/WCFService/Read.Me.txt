@@ -1,0 +1,2 @@
+Kodun geliştirilmesinde destek gerekirse, WCF Service Implementation dosyasının içinde
+türkçe açıklamalarla servisin nasıl implemente edileceği detaylarıyla yazmaktadır.

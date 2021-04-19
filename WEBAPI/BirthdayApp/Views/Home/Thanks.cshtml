@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Thanks";
+}
+
+<h2>Teşekkürler, @Model.Ad!</h2>
+
+<div class="lead">
+    @if (Model.KatilmaDurumu == true)
+            {
+                @:Gelmene çok sevindim:)
+                @Html.Action("Katilanlar","Home")
+    }
+    else
+            {
+                @:Gelemeyecek olmana üzüldüm. Bunu bildirdiğin için teşekkürler.
+            }
+
+</div>
